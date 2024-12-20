@@ -28,4 +28,4 @@ https://www.kaggle.com/datasets/higgstachyon/kannada-mnist
    - Evaluating the performance of each model using essential metrics like Precision, Recall, and F1-Score.
    - Generating Confusion Matrix to analyze the accuracy of predictions for all classes.
    - Visualizing the Receiver Operating Characteristic (RoC) curve to gauge model performance.
-
+https://www.linkedin.com/posts/amruthamesh-ramesh-2b39691b0_machinelearning-datascience-kannadamnist-activity-7275943137716412416-nzyi?utm_source=share&utm_medium=member_desktop
